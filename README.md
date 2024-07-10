@@ -28,7 +28,7 @@ This project focuses on analyzing data from various social media platforms, incl
 - **Instagram Analysis:** Evaluating post performance, follower growth, and engagement rates.
 - **TikTok Analysis:** Assessing video trends, user engagement, and audience demographics.
 - **Gaana Analysis:** Analyzing music trends, listener demographics, and engagement metrics.
-- 
+  
 ## How to Use
 1. **Clone the repository:**
    ```bash
